@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LifeTrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LifetrackerApplication.class, args);
+		SpringApplication.run(LifeTrackerApplication.class, args);
 	}
 
 }
